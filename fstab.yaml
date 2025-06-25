@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p48457-e1275402.adobeaemcloud.com/bin/franklin.delivery/Swapnil-dept/eds-forms/main"
+    type: "markup"
+    suffix: ".html"
