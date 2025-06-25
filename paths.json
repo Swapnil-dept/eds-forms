@@ -3,7 +3,7 @@
     "/:/"
   ],
   "includes": [
-    "/content/",
+    "/content/eds-forms/",
     "/content/dam/"
   ]
 }
